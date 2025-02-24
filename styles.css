@@ -6,6 +6,10 @@ body {
     text-align: center; /* 제목을 중앙 정렬 */
 }
 
+b {
+    font-weight: bold;
+}
+
 h1 {
     color: #333; /* 제목의 색상 지정 */
     text-align: left; /* 제목을 중앙 정렬 */
